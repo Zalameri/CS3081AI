@@ -1,8 +1,14 @@
 # CS3081AI
 
-Coursework for CS3081AI, organised by assignment:
+Coursework for CS3081AI.
 
-| Folder | Contents |
-|---|---|
-| `Lab1/` | Lab 1 (moved from the repository `Lab1-README.md`) |
-| `Three-Reports/` | The three reports (moved from the repository `Three-Reports-README.md`) |
+## Structure
+
+```
+CS3081AI/
+├── Labs/            (placeholder)
+├── Assignments/     (placeholder)
+└── Three-Reports/   AquaGent flowchart, project overview and literature review
+```
+
+The Lab 1 market study now lives in `Software-Engineering/Labs/Lab1/`.
