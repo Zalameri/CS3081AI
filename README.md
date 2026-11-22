@@ -10,8 +10,8 @@ CS3081AI/
 │   ├── Assignment1/   (placeholder)
 │   └── Assignment2/   (placeholder)
 ├── Labs/
-│   ├── Lab3/          (placeholder)
-│   └── Lab4/          (placeholder)
+│   ├── Lab3/          Resolution Hackathon: assignment PDF and solution presentation (PPTX)
+│   └── Lab4/          Bayesian Network: lab notebook (IPYNB) and lab PDF
 ├── Projects/          (placeholder)
 ├── Three-Reports/     AquaGent flowchart, project overview and literature review
 └── README.md
