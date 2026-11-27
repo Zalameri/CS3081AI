@@ -12,7 +12,7 @@ CS3081AI/
 ├── Labs/
 │   ├── Lab3/          Resolution Hackathon: assignment PDF and solution presentation (PPTX)
 │   └── Lab4/          Bayesian Network: lab notebook (IPYNB) and lab PDF
-├── Projects/          (placeholder)
+├── Projects/          AquaGent: water-harvesting decision simulator (Streamlit, Bayesian inference + CSP)
 ├── Three-Reports/     AquaGent flowchart, project overview and literature review
 └── README.md
 ```
