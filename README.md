@@ -12,7 +12,7 @@ CS3081AI/
 ├── Labs/
 │   ├── Lab3/          Resolution Hackathon: assignment PDF and solution presentation (PPTX)
 │   └── Lab4/          Bayesian Network: lab notebook (IPYNB) and lab PDF
-├── Projects/          AquaGent: water-harvesting decision simulator (Streamlit, Bayesian inference + CSP)
+├── Projects/          AquaGent: final project (code, tests, analysis, ACL report + LaTeX source)
 ├── Three-Reports/     AquaGent flowchart, project overview and literature review
 └── README.md
 ```
@@ -21,7 +21,7 @@ CS3081AI/
 |---|---|
 | `Assignments/` | Course assignments, one folder per assignment |
 | `Labs/` | Lab work, one folder per lab |
-| `Projects/` | Course projects |
+| `Projects/` | Course projects: [AquaGent](Projects/AquaGent/) (also at [Zalameri/aquagent](https://github.com/Zalameri/aquagent)) |
 | `Three-Reports/` | The three AquaGent reports |
 
 Each placeholder folder contains a short `README.md` so it shows on GitHub until real files are added.

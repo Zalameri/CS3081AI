@@ -1,3 +1,16 @@
+venv/
+.venv/
 __pycache__/
 *.pyc
 .pytest_cache/
+.streamlit/secrets.toml
+
+# LaTeX build files
+report/source/*.aux
+report/source/*.bbl
+report/source/*.blg
+report/source/*.log
+report/source/*.out
+report/source/*.fls
+report/source/*.fdb_latexmk
+report/source/main.pdf
