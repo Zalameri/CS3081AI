@@ -10,7 +10,7 @@ or no plan when weather evidence is uncertain and energy is limited
 |---|---|
 | [`AquaGent/`](AquaGent/) | Source code, 45 tests, experiments, analysis and README |
 | [`AquaGent_ACL_Report/`](AquaGent_ACL_Report/) | Technical report in ACL format (PDF) |
-| [`Project AI - AquaGent/`](<Project AI - AquaGent/>) | Presentation slides (PDF) |
+| [`AquaGent final AI/`](<AquaGent final AI/>) | Final presentation slides (PDF) |
 | [`AquaGent_Poster2_A1/`](AquaGent_Poster2_A1/) | A1 poster (PDF) |
 
 Team: Zainab Alameri and Abubaker Baobaid · Instructor: Dr. Naila Marir

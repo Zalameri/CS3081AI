@@ -25,7 +25,7 @@ CS3081AI/
 ├── Projects/
 │   ├── AquaGent/                     Project code, tests and analysis
 │   ├── AquaGent_ACL_Report/          Technical report (ACL format)
-│   ├── Project AI - AquaGent/        Presentation slides
+│   ├── AquaGent final AI/            Final presentation slides
 │   └── AquaGent_Poster2_A1/          A1 poster
 └── Three-Reports/            Overview, literature review, flowchart
 ```
