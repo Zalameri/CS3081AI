@@ -1,28 +1,42 @@
-# CS3081AI
+# CS3081 Artificial Intelligence
 
-Coursework for CS3081AI.
+Coursework for **CS3081 Artificial Intelligence** at Effat University (Fall 2026, instructor Dr. Naila Marir):
+assignments, labs and the AquaGent course project.
+
+## Contents
+
+| Folder | What is inside |
+|---|---|
+| [`Assignments/`](Assignments/) | Assignment 1 (search strategies) and Assignment 2 (Resolution Hackathon) |
+| [`Labs/`](Labs/) | Lab 3 (propositional logic and model checking) and Lab 4 (Bayesian networks) |
+| [`Projects/`](Projects/) | AquaGent: code, technical report, presentation and poster |
+| [`Three-Reports/`](Three-Reports/) | AquaGent project overview, literature review and system flowchart |
 
 ## Structure
 
 ```
 CS3081AI/
 ├── Assignments/
-│   ├── Assignment1/   (placeholder)
-│   └── Assignment2/   (placeholder)
+│   ├── Assignment1/          Search strategies (BFS, DFS, Greedy, A*)
+│   └── Assignment2/          Resolution Hackathon: brief and solution slides
 ├── Labs/
-│   ├── Lab3/          Resolution Hackathon: assignment PDF and solution presentation (PPTX)
-│   └── Lab4/          Bayesian Network: lab notebook (IPYNB) and lab PDF
-├── Projects/          AquaGent: final project (code, tests, analysis, ACL report + LaTeX source)
-├── Three-Reports/     AquaGent flowchart, project overview and literature review
-└── README.md
+│   ├── Lab3/                 Propositional logic: Python puzzles + report
+│   └── Lab4/                 Bayesian network notebook (pgmpy) + report
+├── Projects/
+│   ├── AquaGent/                     Project code, tests and analysis
+│   ├── AquaGent_ACL_Report/          Technical report (ACL format)
+│   ├── Project AI - AquaGent/        Presentation slides
+│   └── AquaGent_Poster2_A1/          A1 poster
+└── Three-Reports/            Overview, literature review, flowchart
 ```
 
-| Folder | What goes there |
-|---|---|
-| `Assignments/` | Course assignments, one folder per assignment |
-| `Labs/` | Lab work, one folder per lab |
-| `Projects/` | Course projects: [AquaGent](Projects/AquaGent/) (also at [Zalameri/aquagent](https://github.com/Zalameri/aquagent)) |
-| `Three-Reports/` | The three AquaGent reports |
+## Course project: AquaGent
 
-Each placeholder folder contains a short `README.md` so it shows on GitHub until real files are added.
-The Lab 1 market study lives in `Software-Engineering/Labs/Lab1/`.
+AquaGent is a decision-support agent that recommends a fog collector, a MOF-303 sorbent bed or no plan
+for collecting water from air. It uses **Bayesian inference** to estimate fog from uncertain sensor
+evidence and a **constraint satisfaction** search to keep only plans that respect safety, time and energy
+limits. Built with Python and Streamlit, with 45 unit tests.
+
+Code: [`Projects/AquaGent/`](Projects/AquaGent/) · Standalone repository: [Zalameri/aquagent](https://github.com/Zalameri/aquagent)
+
+The Lab 1 market study for Software Engineering lives in the `Software-Engineering` repository.
